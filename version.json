@@ -5,8 +5,8 @@
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER-SETUP.exe"
   },
   "android": {
-    "latest": "1.0.1",
-    "minimum": "1.0.1",
+    "latest": "1.0.0",
+    "minimum": "1.0.0",
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER.apk"
   }
 }
