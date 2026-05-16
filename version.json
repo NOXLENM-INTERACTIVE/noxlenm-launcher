@@ -1,17 +1,17 @@
 {
-  "latest": "1.0.0",
-  "minimum": "1.0.0",
+  "latest": "2.8.5",
+  "minimum": "2.8.5",
   "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER-SETUP.exe",
 
   "windows": {
-    "latest": "1.0.0",
-    "minimum": "1.0.0",
+    "latest": "2.8.5",
+    "minimum": "2.8.5",
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER-SETUP.exe"
   },
 
   "android": {
-    "latest": "1.0.0",
-    "minimum": "1.0.0",
+    "latest": "2.8.5",
+    "minimum": "2.8.5",
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER.apk"
   }
 }
