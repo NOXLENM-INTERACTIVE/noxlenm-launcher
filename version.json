@@ -10,8 +10,8 @@
   },
 
   "android": {
-    "latest": "2.8.5",
-    "minimum": "2.8.5",
+    "latest": "1.0.0",
+    "minimum": "1.0.0",
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER.apk"
   }
 }
