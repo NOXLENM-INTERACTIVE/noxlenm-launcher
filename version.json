@@ -1,11 +1,11 @@
 {
-  "latest": "2.8.5",
-  "minimum": "2.8.5",
+  "latest": "2.8.6",
+  "minimum": "2.8.6",
   "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER-SETUP.exe",
 
   "windows": {
-    "latest": "2.8.5",
-    "minimum": "2.8.5",
+    "latest": "2.8.6",
+    "minimum": "2.8.6",
     "downloadUrl": "https://github.com/NOXLENM-INTERACTIVE/noxlenm-launcher/releases/latest/download/NOXLENM-LAUNCHER-SETUP.exe"
   },
 
